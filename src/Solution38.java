@@ -1,7 +1,7 @@
 public class Solution38 {
 
     public static void main(String[] args) {
-
+        countAndSay(5);
     }
 
     public static String countAndSay(int n) {
@@ -10,13 +10,23 @@ public class Solution38 {
         }
 
         int position = 0;
-        int current = 0;
+        int current = 1;
+        StringBuilder result = new StringBuilder();
 
         String s = countAndSay(n-1);
 
-        for (int i = 0; i < s.length(); i++) {
-
+        for (current = 1; current < s.length(); current++) {
+            if (s.charAt(position) != s.charAt(current)) {
+                int count = current - position;
+                result.append(count).append(s.charAt(position));
+                position = current;
+            }
         }
-        return "";
+
+        if (position != current) {
+            int count = current - position;
+            result.append(count).append(s.charAt(position));
+        }
+        return result.toString();
     }
 }
