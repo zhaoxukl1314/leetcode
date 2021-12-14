@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f30600-8c94-40d2-9dc2-3089852d1626" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,37 +40,44 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="H:/学习/互联网IT/java/96  好客租房/day06-开发GraphQL服务以及前台系统搭建/代码/itcast-haoke-manage/itcast-haoke-manage" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Solution45">
-    <configuration name="Solution39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution39" />
+  <component name="RunManager" selected="应用程序.Solution56">
+    <configuration name="Solution49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution49" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution40" />
+    <configuration name="Solution50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution50" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution43" />
+    <configuration name="Solution54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution54" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution45" />
+    <configuration name="Solution55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution55" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution56" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,10 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Solution45" />
-        <item itemvalue="应用程序.Solution43" />
-        <item itemvalue="应用程序.Solution40" />
-        <item itemvalue="应用程序.Solution39" />
+        <item itemvalue="应用程序.Solution56" />
+        <item itemvalue="应用程序.Solution55" />
+        <item itemvalue="应用程序.Solution54" />
+        <item itemvalue="应用程序.Solution50" />
+        <item itemvalue="应用程序.Solution49" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +117,32 @@
       <workItem from="1630325105544" duration="5891000" />
       <workItem from="1630364553228" duration="12000" />
       <workItem from="1630410111274" duration="6942000" />
-      <workItem from="1630491004075" duration="5279000" />
+      <workItem from="1630491004075" duration="7743000" />
+      <workItem from="1630579545630" duration="2284000" />
+      <workItem from="1630930827852" duration="1990000" />
+      <workItem from="1631015234547" duration="2252000" />
+      <workItem from="1631097206894" duration="5095000" />
+      <workItem from="1631183853435" duration="3903000" />
+      <workItem from="1631543462007" duration="18000" />
+      <workItem from="1631543497283" duration="598000" />
+      <workItem from="1631623395368" duration="124000" />
+      <workItem from="1631798267214" duration="1965000" />
+      <workItem from="1631875831627" duration="2541000" />
+      <workItem from="1632314244684" duration="1620000" />
+      <workItem from="1632316229266" duration="38000" />
+      <workItem from="1632396215683" duration="2794000" />
+      <workItem from="1632654592588" duration="1709000" />
+      <workItem from="1635330892102" duration="21000" />
+      <workItem from="1635330928050" duration="801000" />
+      <workItem from="1636024256603" duration="164000" />
+      <workItem from="1636024435760" duration="1725000" />
+      <workItem from="1636856892333" duration="13000" />
+      <workItem from="1636856924736" duration="62000" />
+      <workItem from="1637583904227" duration="24000" />
+      <workItem from="1637583950260" duration="894000" />
+      <workItem from="1639054479250" duration="16000" />
+      <workItem from="1639054510369" duration="1003000" />
+      <workItem from="1639486693303" duration="1206000" />
     </task>
     <servers />
   </component>
